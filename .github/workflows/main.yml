@@ -31,6 +31,8 @@ jobs:
       - name: Install Haxelib
         run: |
           haxelib setup C:/haxelib
+          haxelib install lime 8.0.1 --quiet
+          haxelib set lime 8.0.1
           haxelib install hxcpp > /dev/null --quiet
           haxe -cp ./setup -D analyzer-optimize -main Main --interp
         shell: cmd
