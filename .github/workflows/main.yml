@@ -24,7 +24,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2.3.0
 
-      - uses: krdlab/setup-haxe@master
+      - uses: krdlab/setup-haxe@38fd78cc3a7960b281cf4a33a63a9c1543ac4598
         with:
           haxe-version: 4.2.5
       # Runs a set of commands using the runners shell
@@ -32,24 +32,7 @@ jobs:
         run: |
           haxelib setup C:/haxelib
           haxelib install hxcpp > /dev/null --quiet
-          haxelib install lime 8.0.1
-          haxelib set lime 8.0.1
-          haxelib install openfl 9.3.2
-          haxelib set openfl 9.3.2
-          haxelib install flixel 5.5.0
-          haxelib set flixel 5.5.0
-          haxelib install flixel-addons 3.2.1
-          haxelib set flixel-addons 3.2.1
-          haxelib install flixel-ui 2.5.0
-          haxelib set flixel-ui 2.5.0
-          haxelib install flixel-tools
-          haxelib install SScript 8.1.6
-          haxelib set SScript 8.1.6
-          haxelib install hxCodec
-          haxelib install tjson
-          haxelib git flxanimate https://github.com/ShadowMario/flxanimate
-          haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
-          haxelib git hxdiscord_rpc https://github.com/MAJigsaw77/hxdiscord_rpc
+          haxe -cp ./setup -D analyzer-optimize -main Main --interp
         shell: cmd
       - name: Skip SScript setup mode
         run: echo 'oy9:showMacroty8:loopCosti25y10:includeAllfg' >> %USERPROFILE%/settings.cocoa
