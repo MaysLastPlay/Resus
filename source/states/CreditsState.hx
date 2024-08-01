@@ -45,7 +45,7 @@ class CreditsState extends MusicBeatState
 			['King1guy', 'king1guy', 'Composer', 'https://youtube.com/@bringbackab?si=dL9uZgf_deTCh2om', 'FFFFFF'],
 			['Godexely', 'godexely', 'Composer', 'https://youtube.com/@redcone?si=1CMq9rBP5qgc5OVy', 'FFFFFF'],
 			['Meol', 'meol', 'Charter', 'https://youtube.com/@wert3955', 'FFFFFF'],
-			['chill_ultimated', 'chill_ultimated', 'Charter', 'https://youtube.com/@chill_ultimated?si=MtTL9vBWA2Ujb5x1', 'FFFFFF'],
+			['chill_ultimated', 'chill_ultimated', 'Charter, Coder', 'https://youtube.com/@chill_ultimated?si=MtTL9vBWA2Ujb5x1', 'FFFFFF'],
 			['Hazzy', 'hazzy', 'Coder', 'https://youtube.com/@hazzy83?si=UaLHyj7brYhQmH4N', 'FFFFFF'],
 			['MaysLastPlay', 'mayslastplay', 'Coder', 'https://youtube.com/@mayslastplay?si=96N5Fndao0kQQo7k', 'FFFFFF'],
       ['Impostorm'],
