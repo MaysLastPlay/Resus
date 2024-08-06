@@ -49,7 +49,7 @@ class CreditsState extends MusicBeatState
 			['chill_ultimated', 'chill_ultimated', 'Charter, Coder', 'https://youtube.com/@chill_ultimated?si=MtTL9vBWA2Ujb5x1', 'FFFFFF'],
 			['Hazzy', 'hazzy', 'Coder', 'https://youtube.com/@hazzy83?si=UaLHyj7brYhQmH4N', 'FFFFFF'],
 			['MaysLastPlay', 'mayslastplay', 'Coder', 'https://youtube.com/@mayslastplay?si=96N5Fndao0kQQo7k', 'FFFFFF'],
-			['Frynex', 'frynex', 'Former team member', 'https://youtube.com/@frynexfnf?si=oE-YeUz9gR_945YI', 'FFFFFF'],
+			['frynex', 'frynex', 'Former team member', 'https://youtube.com/@frynexfnf?si=oE-YeUz9gR_945YI', 'FFFFFF'],
       ['Impostorm'],
 			['Clowfoe', 'clowfoe', 'Director of the original mod', 'https://youtube.com/@clowfoe?si=GZzHQKt6U2VLxBuh', 'FFFFFF'],
       ['Crewmate Challenge'],
