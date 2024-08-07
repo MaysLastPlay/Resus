@@ -41,7 +41,7 @@ class CreditsState extends MusicBeatState
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 		  ['Imperfect Team'],
 			['Lakris', 'lakris', 'Director of the mod and main artist', 'https://youtube.com/@lakris44?si=auR-4t_9bdKdepO2', 'FFFFFF'],
-			['TBeat', 'tbeat', 'Concept Artist', 'https://youtube.com/@tbeat64?si=6Lm3sfxcvCKCyha2', 'FFFFFF'],
+			['TBeat', 'tbeat', 'Concept artist', 'https://youtube.com/@tbeat64?si=6Lm3sfxcvCKCyha2', 'FFFFFF'],
 			['Iandee Abanid', 'iandee abanid', 'Animator', 'https://youtube.com/@iandeeabanid3470?si=3HI9ppcC1gknqONl', 'FFFFFF'],
 			['King1guy', 'king1guy', 'Composer', 'https://youtube.com/@bringbackab?si=dL9uZgf_deTCh2om', 'FFFFFF'],
 			['Godexely', 'godexely', 'Composer', 'https://youtube.com/@redcone?si=1CMq9rBP5qgc5OVy', 'FFFFFF'],
@@ -49,7 +49,7 @@ class CreditsState extends MusicBeatState
 			['chill_ultimated', 'chill_ultimated', 'Charter, Coder', 'https://youtube.com/@chill_ultimated?si=MtTL9vBWA2Ujb5x1', 'FFFFFF'],
 			['Hazzy', 'hazzy', 'Coder', 'https://youtube.com/@hazzy83?si=UaLHyj7brYhQmH4N', 'FFFFFF'],
 			['MaysLastPlay', 'mayslastplay', 'Coder', 'https://youtube.com/@mayslastplay?si=96N5Fndao0kQQo7k', 'FFFFFF'],
-			['frynex', 'frynex', 'Former team member', 'https://youtube.com/@frynexfnf?si=oE-YeUz9gR_945YI', 'FFFFFF'],
+			['frynex', 'frynex', 'Idea helper', 'https://youtube.com/@frynexfnf?si=oE-YeUz9gR_945YI', 'FFFFFF'],
       ['Impostorm'],
 			['Clowfoe', 'clowfoe', 'Director of the original mod', 'https://youtube.com/@clowfoe?si=GZzHQKt6U2VLxBuh', 'FFFFFF'],
       ['Crewmate Challenge'],
